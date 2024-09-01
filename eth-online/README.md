@@ -4,7 +4,7 @@
 
 ### First Iteration
 
-State variables based ER Diagram.
+State variables based ER Diagram
 
 ![First Iteration](../src/image.png)
 
