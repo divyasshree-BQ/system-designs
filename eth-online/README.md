@@ -10,14 +10,15 @@ State variables based ER Diagram
 
 ### Second Iteration
 
-ER Diagram based on state variables plus methods of each diagram
+First image displays the ER Diagram based on state variables and the second one displays the methods of each contract.
 
 ![Second Iteration ER Diagram](../src/image2.png)
-<p style="text-align: center;">ER Diagram</p>
+
 
 ![Second Iteration Contract Methods](../src/image3.png)
-<p style="text-align: center;">Contract Methods</p>
 
 ## Backend Structure/ Design
 
+Basic System Design for the Project diagram
+ß
 ![Backend Design](../src/backendStructure.png)
