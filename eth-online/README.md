@@ -17,3 +17,7 @@ ER Diagram based on state variables plus methods of each diagram
 
 ![Second Iteration Contract Methods](../src/image3.png)
 <p style="text-align: center;">Contract Methods</p>
+
+## Backend Structure/ Design
+
+![Backend Design](../src/backendStructure.png)
