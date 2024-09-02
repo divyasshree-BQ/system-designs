@@ -26,8 +26,8 @@ Basic System Design for the Project diagram
 
 ## Info from Creator
 
-No of tokens
-Lot size
-Max lots allowed per user
-Max available lots
-Appreciation APR?
+- No of tokens
+- Lot size
+- Max lots allowed per user
+- Max available lots
+- Appreciation APR?
